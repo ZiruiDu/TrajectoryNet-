@@ -5,8 +5,8 @@ Built upon the TrackNetV2 backbone, TrajectoryNet++ explicitly integrates **mult
 
 The framework introduces two key modules:
 
-- **MSPEM**: Multi-scale Surround Prior Extraction Module  
-- **CKAM**: Cross Knowledge Attention Module  
+- **MSPE**: Multi-scale Surround Prior Extraction   
+- **CSCA**: Cross-Scale Contextual Attention  
 
 Extensive experiments demonstrate that TrajectoryNet++ significantly outperforms existing TrackNet-based methods in terms of **Accuracy, Recall, F1-score**, while maintaining **real-time inference speed**.
 
