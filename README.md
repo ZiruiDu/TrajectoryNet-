@@ -67,7 +67,7 @@ python train.py \
 ```bash
 python train.py \
   --data /path/to/dataset.yaml \
-  --epochs 150 \
+  --epochs 500 \
   --batch-size 32 \
   --lr 0.001 \
   --optimizer adamw \
